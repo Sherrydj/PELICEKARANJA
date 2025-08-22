@@ -6,7 +6,7 @@
 <body>
     <!-- Your content will go here -->
 </body><h1>My Personal Portfolio</h1>
-<p>Welcome to My Personal Portfolio! Hi, I'm Sherrydj 👋,
+<p>Welcome to My Personal Portfolio! Hi, I'm Pelice Karanja 👋,
 a <strong>passionate learner</strong> exploring web development.</p>
 <h2>🌟 About Me</h2>
 <ul>
